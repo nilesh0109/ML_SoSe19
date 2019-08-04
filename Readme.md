@@ -31,7 +31,7 @@ Implemention of 10-arms bandit problem using epsilon-greedy policy and compariso
 Also, comparison of e-greedy with or w/o Upper Confidance Boundary(UCB). An optimisitic uniform initialization is also explored.
 
 
-### [Assignment 8](https://github.com/nilesh0109/ML_SoSe19/blob/master/EX08.ipynb):
+### [Assignment 8](https://github.com/nilesh0109/ML_SoSe19/blob/master/Ex08.ipynb):
 Iterative policy evaluation using Dynamic programing(DP) for random policy. Solved the grid world problem mentioned in sutton and Batro at page 76.
 
 # Language Technology
