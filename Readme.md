@@ -36,6 +36,9 @@ Iterative policy evaluation using Dynamic programing(DP) for random policy. Solv
 
 # Language Technology
 
+### [Assignment 3](https://github.com/nilesh0109/ML_SoSe19/blob/master/LT/LT_assignment3.py):
+Finding most frenquent unigram, bigram, trigram in the given training corpora.
+
 ### [Assignment 10](https://github.com/nilesh0109/ML_SoSe19/blob/master/LT_assignment10.ipynb):
 Implementaion of pageRank algorithm using matrix formula and iterative method both.
 
