@@ -1,6 +1,6 @@
 This repo contains the assignments from Machine Learning class from Professor Cetina (summer term 2019).
 
-# Machine Learning
+# [Machine Learning](https://github.com/nilesh0109/ML_SoSe19)
 
 ### [Assignment 1](https://github.com/nilesh0109/ML_SoSe19/blob/master/ML_ex1.ipynb):
 Modeling noisy sine wave using  third degree polynomial linear regression and training the model using stochatic gradient descend.
@@ -34,7 +34,7 @@ Also, comparison of e-greedy with or w/o Upper Confidance Boundary(UCB). An opti
 ### [Assignment 8](https://github.com/nilesh0109/ML_SoSe19/blob/master/Ex08.ipynb):
 Iterative policy evaluation using Dynamic programing(DP) for random policy. Solved the grid world problem mentioned in sutton and Batro at page 76.
 
-# Language Technology
+# [Language Technology](https://github.com/nilesh0109/ML_SoSe19/tree/master/LT)
 
 ### [Assignment 3](https://github.com/nilesh0109/ML_SoSe19/blob/master/LT/LT_assignment3.py):
 Finding most frenquent unigram, bigram, trigram in the given training corpora.
