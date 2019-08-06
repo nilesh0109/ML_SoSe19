@@ -1,6 +1,6 @@
 This repo contains the assignments from Machine Learning class from Professor Cetina (summer term 2019).
 
-# [Machine Learning](https://github.com/nilesh0109/ML_SoSe19)
+# Machine Learning
 
 ### [Assignment 1](https://github.com/nilesh0109/ML_SoSe19/blob/master/ML_ex1.ipynb):
 Modeling noisy sine wave using  third degree polynomial linear regression and training the model using stochatic gradient descend.
